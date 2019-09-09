@@ -1,2 +1,4 @@
 # my_site
-My Website
+My Website is description about blog and news techonology
+Thank You
+
